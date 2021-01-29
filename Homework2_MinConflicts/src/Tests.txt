@@ -1,0 +1,42 @@
+#TEST 1
+Please enter number of queens: 4
+ 
+Solution found in 0.0s.
+ 
+The board where * is queen and _ is empty tile:
+- - * - 
+* - - - 
+- - - * 
+- * - - 
+
+#TEST 2
+Please enter number of queens: 10
+ 
+Solution found in 0.0s.
+ 
+The board where * is queen and _ is empty tile:
+- - - - - * - - - - 
+- - * - - - - - - - 
+- - - - - - - - * - 
+- - - - - - * - - - 
+* - - - - - - - - - 
+- - - - - - - - - * 
+- * - - - - - - - - 
+- - - - * - - - - - 
+- - - - - - - * - - 
+- - - * - - - - - - 
+
+#TEST 3
+Please enter number of queens: 100
+ 
+Solution found in 0.001s.
+
+#TEST 4
+Please enter number of queens: 1000
+ 
+Solution found in 0.009s.
+
+#TEST 5
+Please enter number of queens: 10000
+ 
+Solution found in 0.374s.
